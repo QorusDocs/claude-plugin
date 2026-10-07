@@ -10,7 +10,7 @@
     {
       "name": "qorusdocs",
       "source": "./plugins/qorusdocs",
-      "description": "Connects Claude to QorusDocs pursuits, Smart Layouts and content sources, with a skill for producing capability statements."
+      "description": "Connects Claude to your QorusDocs hub and guides a pursuit from set-up, through your hub's Assignments, to a drafted and delivered document."
     }
   ]
 }

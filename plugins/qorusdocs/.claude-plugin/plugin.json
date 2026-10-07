@@ -1,12 +1,12 @@
 {
   "name": "qorusdocs",
-  "version": "0.1.0",
-  "description": "Connects Claude to QorusDocs pursuits, Smart Layouts and content sources, with a skill for producing capability statements.",
+  "version": "0.2.0",
+  "description": "Connects Claude to your QorusDocs hub and guides a pursuit from set-up, through your hub's Assignments, to a drafted and delivered document.",
   "author": {
     "name": "QorusDocs"
   },
   "homepage": "https://github.com/QorusDocs/claude-plugin",
   "repository": "https://github.com/QorusDocs/claude-plugin",
   "privacyPolicyUrl": "https://www.qorusdocs.com/privacy-policy/proposalhub",
-  "keywords": ["qorusdocs", "proposals", "pursuits", "capability-statement"]
+  "keywords": ["qorusdocs", "proposals", "pursuits"]
 }
