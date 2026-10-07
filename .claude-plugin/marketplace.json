@@ -1,0 +1,16 @@
+{
+  "name": "qorusdocs",
+  "owner": {
+    "name": "QorusDocs"
+  },
+  "metadata": {
+    "description": "QorusDocs plugins for Claude"
+  },
+  "plugins": [
+    {
+      "name": "qorusdocs",
+      "source": "./plugins/qorusdocs",
+      "description": "Connects Claude to QorusDocs pursuits, Smart Layouts and content sources, with a skill for producing capability statements."
+    }
+  ]
+}

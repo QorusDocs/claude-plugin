@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "qorusdocs": {
+      "type": "http",
+      "url": "https://agent-mcp.qorushub.com"
+    }
+  }
+}
