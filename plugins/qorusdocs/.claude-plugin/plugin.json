@@ -1,5 +1,6 @@
 {
   "name": "qorusdocs",
+  "displayName": "QorusDocs",
   "version": "0.2.0",
   "description": "Connects Claude to your QorusDocs hub and guides a pursuit from set-up, through your hub's Assignments, to a drafted and delivered document.",
   "author": {
