@@ -1,5 +1,5 @@
 {
-  "name": "qorusdocs",
+  "name": "QorusDocs",
   "owner": {
     "name": "QorusDocs"
   },
@@ -8,7 +8,7 @@
   },
   "plugins": [
     {
-      "name": "qorusdocs",
+      "name": "QorusDocs",
       "source": "./plugins/qorusdocs",
       "description": "Connects Claude to your QorusDocs hub and guides a pursuit from set-up, through your hub's Assignments, to a drafted and delivered document."
     }
