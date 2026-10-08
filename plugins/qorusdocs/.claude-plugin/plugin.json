@@ -9,5 +9,8 @@
   "homepage": "https://github.com/QorusDocs/claude-plugin",
   "repository": "https://github.com/QorusDocs/claude-plugin",
   "privacyPolicyUrl": "https://www.qorusdocs.com/privacy-policy/proposalhub",
+  "supportUrl": "https://helpcenter.qorusdocs.com/hc/en-us/requests/new",
+  "documentationUrl": "https://helpcenter.qorusdocs.com/hc/en-us/articles/38370066116893-Set-up-and-use-the-QorusDocs-connector-for-Claude",
+  "termsOfServiceUrl": "https://www.qorusdocs.com/terms-of-service",
   "keywords": ["qorusdocs", "proposals", "pursuits"]
 }
