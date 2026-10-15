@@ -25,7 +25,7 @@ On first use, run `/mcp` and sign in to QorusDocs when the browser opens. Claude
 ```
 .claude-plugin/marketplace.json     marketplace listing
 docs/                               installation and usage guide
-plugins/qorusdocs/
+src/                                the qorusdocs plugin
   .claude-plugin/plugin.json        plugin manifest
   .mcp.json                         MCP server connection
   skills/create-pursuit/            the skill
